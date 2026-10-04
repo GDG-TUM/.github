@@ -18,7 +18,7 @@ We are a student-led developer community at the Technical University of Mombasa.
 | 🌐  Web | Frontend, backend, full-stack development |
 | 📱  Mobile | Android and cross-platform apps |
 | 🤖 AI/ML | Machine learning, generative AI, data |
-|    Cybersecurity| offensive,defensive
+| 🔐 Cybersecurity | Offensive and defensive security: ethical hacking, red team, SOC, secure coding |
 
 
 ## 📂 What you'll find here
