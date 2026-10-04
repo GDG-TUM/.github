@@ -14,10 +14,11 @@ We are a student-led developer community at the Technical University of Mombasa.
 ## 🧭 Our tracks
 | Track | Focus |
 |-------|-------|
-| ☁️ Cloud | Google Cloud, DevOps, cloud security, infrastructure |
-| 🌐 Web | Frontend, backend, full-stack development |
-| 📱 Mobile | Android and cross-platform apps |
+| ☁️  Cloud | Google Cloud, DevOps, cloud security, infrastructure |
+| 🌐  Web | Frontend, backend, full-stack development |
+| 📱  Mobile | Android and cross-platform apps |
 | 🤖 AI/ML | Machine learning, generative AI, data |
+|    Cybersecurity| offensive,defensive
 
 
 ## 📂 What you'll find here
