@@ -33,7 +33,7 @@ We are a **student-led developer community** at the Technical University of Momb
 | ☁️ **Cloud** | Google Cloud, DevOps, cloud security, infrastructure | [**Open: start here**](https://github.com/GDG-TUM/Cloud-Track-GDG-on-Campus-TUM) |
 | 🌐 **Web** | Frontend, backend, full-stack development | Opening soon |
 | 📱 **Mobile** | Android and cross-platform apps | Opening soon |
-| 🤖 **AI / ML** | Machine learning, generative AI, data | Opening soon |
+| 🤖 **AI / ML** | Machine learning, generative AI, data | [**Open: start here**](https://github.com/GDG-TUM/AI-ML-Track-GDG-on-Campus-TUM) |
 | 🔐 **Cybersecurity** | Offensive and defensive security: ethical hacking, red team, SOC, secure coding |[**Open: start here**](https://github.com/GDG-TUM/CYBERSECURITY-TRACK-GDG-on-Campus-TUM)|
 
 ## 🤝 How to join in
