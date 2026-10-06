@@ -10,7 +10,7 @@
 ![Level](https://img.shields.io/badge/level-beginner%20friendly-34A853?style=for-the-badge)
 ![Join](https://img.shields.io/badge/join-free-FBBC04?style=for-the-badge&labelColor=555)
 
-[☁️ Cloud Track](https://github.com/GDG-TUM/Cloud-Track-GDG-on-Campus-TUM) · [🧭 Share your roadmap](https://github.com/GDG-TUM/member-roadmaps) · [📋 Chapter board](https://github.com/orgs/GDG-TUM/projects/1) · [💼 LinkedIn](https://www.linkedin.com/company/gdg-on-campus-tum/)
+[☁️ Cloud Track](https://github.com/GDG-TUM/Cloud-Track-GDG-on-Campus-TUM) · [🤖A.I/ML Track](https://github.com/GDG-TUM/AI-ML-Track-GDG-on-Campus-TUM) .[Cybersecurity Track](https://github.com/GDG-TUM/CYBERSECURITY-TRACK-GDG-on-Campus-TUM) . ([🧭 Share your roadmap](https://github.com/GDG-TUM/member-roadmaps) · [📋 Chapter board](https://github.com/orgs/GDG-TUM/projects/1) · [💼 LinkedIn](https://www.linkedin.com/company/gdg-on-campus-tum/)
 
 </div>
 
