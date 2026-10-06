@@ -34,7 +34,7 @@ We are a **student-led developer community** at the Technical University of Momb
 | 🌐 **Web** | Frontend, backend, full-stack development | Opening soon |
 | 📱 **Mobile** | Android and cross-platform apps | Opening soon |
 | 🤖 **AI / ML** | Machine learning, generative AI, data | Opening soon |
-| 🔐 **Cybersecurity** | Offensive and defensive security: ethical hacking, red team, SOC, secure coding | Opening soon |
+| 🔐 **Cybersecurity** | Offensive and defensive security: ethical hacking, red team, SOC, secure coding |[**Open: start here**](https://github.com/GDG-TUM/CYBERSECURITY-TRACK-GDG-on-Campus-TUM)|
 
 ## 🤝 How to join in
 
