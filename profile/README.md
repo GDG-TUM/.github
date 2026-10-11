@@ -42,7 +42,7 @@ We are a **student-led developer community** at the Technical University of Momb
 |:----:|---------|
 | **1** | **Join the organization** (the core team will send you an invitation) and turn on two-factor authentication |
 | **2** | **Share your plan** for the year by opening a Member Roadmap issue in [member-roadmaps](https://github.com/GDG-TUM/member-roadmaps) |
-| **3** | **Start learning** with the [Cloud Track](https://github.com/GDG-TUM/Cloud-Track-GDG-on-Campus-TUM): setup guide, weekly sessions and resources |
+| **3** | **Start learning** : setup guide, weekly sessions and resources |
 | **4** | **Start learning** with the [A.I/Machine Learning Track](https://github.com/GDG-TUM/AI-ML-Track-GDG-on-Campus-TUM): setup guide, weekly sessions and resources |
 | **5** | **Start learning** with the [CyberSecurity](https://github.com/GDG-TUM/CYBERSECURITY-TRACK-GDG-on-Campus-TUM): setup guide, weekly sessions and resources |
 | **6** | **Contribute:** read the [contributing guide](https://github.com/GDG-TUM/.github/blob/main/CONTRIBUTING.md), pick an issue labelled `good first issue`, and open a pull request |
