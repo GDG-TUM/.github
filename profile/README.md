@@ -43,13 +43,12 @@ We are a **student-led developer community** at the Technical University of Momb
 | **1** | **Join the organization** (the core team will send you an invitation) and turn on two-factor authentication |
 | **2** | **Share your plan** for the year by opening a Member Roadmap issue in [member-roadmaps](https://github.com/GDG-TUM/member-roadmaps) |
 | **3** | **Start learning** : setup guide, weekly sessions and resources |
-
 | **4** | **Start learning** with the [Cloud Track](https://github.com/GDG-TUM/Cloud-Track-GDG-on-Campus-TUM)
-| **4** | **Start learning** with the [A.I/Machine Learning Track](https://github.com/GDG-TUM/AI-ML-Track-GDG-on-Campus-TUM)
-| **5** | **Start learning** with the [Mobile Development Track](https://github.com/GDG-TUM/Mobile-Development-Track-GDG-on-Campus-TUM) |
-| **6** | **Start learning** with the [CyberSecurity](https://github.com/GDG-TUM/CYBERSECURITY-TRACK-GDG-on-Campus-TUM): setup guide, weekly sessions and resources |
-| **7** | **Contribute:** read the [contributing guide](https://github.com/GDG-TUM/.github/blob/main/CONTRIBUTING.md), pick an issue labelled `good first issue`, and open a pull request |
-| **8** | **Follow us** on [LinkedIn](https://www.linkedin.com/company/gdg-on-campus-tum/) for events and news |
+| **5** | **Start learning** with the [A.I/Machine Learning Track](https://github.com/GDG-TUM/AI-ML-Track-GDG-on-Campus-TUM)
+| **6** | **Start learning** with the [Mobile Development Track](https://github.com/GDG-TUM/Mobile-Development-Track-GDG-on-Campus-TUM) |
+| **7** | **Start learning** with the [CyberSecurity](https://github.com/GDG-TUM/CYBERSECURITY-TRACK-GDG-on-Campus-TUM): setup guide, weekly sessions and resources |
+| **8** | **Contribute:** read the [contributing guide](https://github.com/GDG-TUM/.github/blob/main/CONTRIBUTING.md), pick an issue labelled `good first issue`, and open a pull request |
+| **9** | **Follow us** on [LinkedIn](https://www.linkedin.com/company/gdg-on-campus-tum/) for events and news |
 
 ## 📂 What you will find here
 
