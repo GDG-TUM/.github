@@ -10,7 +10,7 @@
 ![Level](https://img.shields.io/badge/level-beginner%20friendly-34A853?style=for-the-badge)
 ![Join](https://img.shields.io/badge/join-free-FBBC04?style=for-the-badge&labelColor=555)
 
-[**☁️ Cloud Track**](https://github.com/GDG-TUM/Cloud-Track-GDG-on-Campus-TUM) · [**🤖A.I/ML Track**](https://github.com/GDG-TUM/AI-ML-Track-GDG-on-Campus-TUM) .[🔐**Cybersecurity Track**](https://github.com/GDG-TUM/CYBERSECURITY-TRACK-GDG-on-Campus-TUM) .[**WOMEN-TRACK**](https://github.com/GDG-TUM/WOMEN-IN-TECH-TRACK). ([🧭 Share your roadmap](https://github.com/GDG-TUM/member-roadmaps) · [**MOBILE DEVELOPMENT**](https://github.com/GDG-TUM/Mobile-Development-Track-GDG-on-Campus-TUM) [📋 Chapter board](https://github.com/orgs/GDG-TUM/projects/1) · [💼 LinkedIn](https://www.linkedin.com/company/gdg-on-campus-tum/)
+[**☁️ Cloud Track**](https://github.com/GDG-TUM/Cloud-Track-GDG-on-Campus-TUM) · [**🤖A.I/ML Track**](https://github.com/GDG-TUM/AI-ML-Track-GDG-on-Campus-TUM) .[🔐**Cybersecurity Track**](https://github.com/GDG-TUM/CYBERSECURITY-TRACK-GDG-on-Campus-TUM) .[**WOMEN-TRACK**](https://github.com/GDG-TUM/WOMEN-IN-TECH-TRACK). · [**MOBILE DEVELOPMENT**](https://github.com/GDG-TUM/Mobile-Development-Track-GDG-on-Campus-TUM) . ([🧭 Share your roadmap](https://github.com/GDG-TUM/member-roadmaps)[📋 Chapter board](https://github.com/orgs/GDG-TUM/projects/1) · [💼 LinkedIn](https://www.linkedin.com/company/gdg-on-campus-tum/)
 
 </div>
 
@@ -32,7 +32,7 @@ We are a **student-led developer community** at the Technical University of Momb
 |-------|-------|--------|
 | ☁️ **Cloud** | Google Cloud, DevOps, cloud security, infrastructure | [**Open: start here**](https://github.com/GDG-TUM/Cloud-Track-GDG-on-Campus-TUM) |
 | 🌐 **Web** | Frontend, backend, full-stack development | Opening soon |
-| 📱 **Mobile** | Android and cross-platform apps [**Open: start here**](https://github.com/GDG-TUM/Mobile-Development-Track-GDG-on-Campus-TUM) |
+| 📱 **Mobile** | Android and cross-platform apps | [**Open: start here**](https://github.com/GDG-TUM/Mobile-Development-Track-GDG-on-Campus-TUM) |
 | 🤖 **AI / ML** | Machine learning, generative AI, data | [**Open: start here**](https://github.com/GDG-TUM/AI-ML-Track-GDG-on-Campus-TUM) |
 | 🔐 **Cybersecurity** | Offensive and defensive security: ethical hacking, red team, SOC, secure coding |[**Open: start here**](https://github.com/GDG-TUM/CYBERSECURITY-TRACK-GDG-on-Campus-TUM)|
 
