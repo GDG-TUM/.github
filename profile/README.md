@@ -111,12 +111,25 @@ We run **at least two buildathon challenges every week** across Web, Cloud, Mobi
 
 ## 👥 Meet the team
 
+### Chapter leadership
+
 <table align="center">
   <tr>
-    <td align="center" width="25%">
-      <a href="https://github.com/Dahliastar"><img src="https://github.com/Dahliastar.png?size=100" width="100" alt="Michelle Ndunge" /></a><br />
+    <td align="center" width="50%">
+      <a href="https://github.com/Dahliastar"><img src="https://github.com/Dahliastar.png?size=120" width="120" alt="Michelle Ndunge" /></a><br />
       <b>Michelle Ndunge</b><br />🧭 Chapter Lead
     </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/KabuorJnr"><img src="https://github.com/KabuorJnr.png?size=120" width="120" alt="Rooney Odhiambo" /></a><br />
+      <b>Rooney Odhiambo</b><br />🤝 VC Chair
+    </td>
+  </tr>
+</table>
+
+### Track and programme leads
+
+<table align="center">
+  <tr>
     <td align="center" width="25%">
       <a href="https://github.com/Markkaruga254"><img src="https://github.com/Markkaruga254.png?size=100" width="100" alt="Mark Karuga" /></a><br />
       <b>Mark Karuga</b><br />☁️ Cloud Track Lead
@@ -129,12 +142,12 @@ We run **at least two buildathon challenges every week** across Web, Cloud, Mobi
       <a href="https://github.com/ianchacha"><img src="https://github.com/ianchacha.png?size=100" width="100" alt="Ian Chacha" /></a><br />
       <b>Ian Chacha</b><br />📱 Mobile Track Lead
     </td>
-  </tr>
-  <tr>
     <td align="center" width="25%">
       <a href="https://github.com/kimmy-sec"><img src="https://github.com/kimmy-sec.png?size=100" width="100" alt="Kimberly Gift" /></a><br />
       <b>Kimberly Gift</b><br />🔐 Cybersecurity Track Lead
     </td>
+  </tr>
+  <tr>
     <td align="center" width="25%">
       <a href="https://github.com/larah-del"><img src="https://github.com/larah-del.png?size=100" width="100" alt="Larah Flynn" /></a><br />
       <b>Larah Flynn</b><br />👩‍💻 Women in Tech Lead
@@ -147,8 +160,26 @@ We run **at least two buildathon challenges every week** across Web, Cloud, Mobi
       <a href="https://github.com/Ryanking254"><img src="https://github.com/Ryanking254.png?size=100" width="100" alt="Sam Ryan" /></a><br />
       <b>Sam Ryan</b><br />🌐 Web Development
     </td>
+    <td align="center" width="25%">
+      <br />
+    </td>
   </tr>
 </table>
+
+### 🧭 Who to talk to
+
+| If you want to... | Reach out to |
+|:------------------|:-------------|
+| Join the chapter, partner with us or ask general questions | Chapter Lead and VC Chair |
+| Learn cloud, DevOps or Google Cloud | Cloud Track Lead |
+| Explore machine learning and generative AI | AI / ML Track Lead |
+| Build Android or cross-platform apps | Mobile Track Lead |
+| Get into ethical hacking, SOC or secure coding | Cybersecurity Track Lead |
+| Find mentorship and community for women in tech | Women in Tech Lead |
+| Prepare for hackathons or the Google Solution Challenge | Hackathons & Solutions Lead |
+| Learn frontend, backend or full-stack development | Web Development Lead |
+
+> **Want to lead?** Active members who contribute, mentor and show up consistently are the ones who grow into leadership roles. Start with the [learning path](#-your-learning-path) and let a track lead know you're interested.
 
 <details>
 <summary><b>❓ New here? Common questions</b></summary>
