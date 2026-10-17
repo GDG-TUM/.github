@@ -16,6 +16,7 @@
 [**Join us**](#-how-to-join) ·
 [**Tracks**](#-our-tracks) ·
 [**Hackathons**](#-hackathons-and-solutions) ·
+[**Events**](#-upcoming-events) ·
 [**Team**](#-meet-the-team) ·
 [**Roadmaps**](https://github.com/GDG-TUM/member-roadmaps) ·
 [**Chapter board**](https://github.com/orgs/GDG-TUM/projects/1) ·
@@ -88,6 +89,47 @@ flowchart LR
 We run **at least two buildathon challenges every week** across Web, Cloud, Mobile, AI/ML and Cybersecurity. Challenges are announced in the official GDG groups, so watch there for deadlines and submission instructions.
 
 [**Explore the full hackathon programme →**](https://github.com/GDG-TUM/GDGoC-TUM-Hackathon-Structure)
+
+## 📅 Upcoming events
+
+<table>
+  <tr>
+    <td>
+
+![Date](https://img.shields.io/badge/📆%2019%20Oct%202026-4285F4?style=for-the-badge)
+![Free](https://img.shields.io/badge/Free%20registration-34A853?style=for-the-badge)
+![Track](https://img.shields.io/badge/☁️%20Cloud%20Track%20·%20Week%202-FBBC04?style=for-the-badge&labelColor=555)
+
+### 🐧 Tools of the Trade Workshop: Linux, Git & Docker
+
+Cloud Track Week 2 presents **"Tools of the Trade"**, a hands-on workshop on containerization using Linux, Git and Docker. You'll learn how to build and deploy containers with **Google Cloud Run**. It's ideal for tech enthusiasts who want to sharpen their skills and network with peers.
+
+**You'll learn how to:**
+- 🐧 Work confidently in the Linux command line
+- 🌿 Use Git to version and share your work
+- 🐳 Package applications into Docker containers
+- ☁️ Deploy a container to Google Cloud Run
+
+[**👉 Register for free**](https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-tools-of-the-trade-workshop-linux-git-amp-docker/)
+
+</td>
+  </tr>
+</table>
+
+> 🔔 More sessions are announced on our [GDG community page](https://gdg.community.dev/gdg-on-campus-technical-university-of-mombasa-mombasa-kenya/), on [LinkedIn](https://www.linkedin.com/company/gdg-on-campus-tum/) and on the [chapter board](https://github.com/orgs/GDG-TUM/projects/1).
+
+## 🕘 Past events
+
+A look at what we've already run this semester.
+
+| Date | Event | Track |
+|:-----|:------|:------|
+| 16 Oct 2026 | [Discovering the Cybersecurity World: Would You Survive a Phishing Attack?](https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-discovering-the-cybersecurity-world-would-you-survive-a-phishing-attack/) | 🔐 Cybersecurity |
+| 15 Oct 2026 | [AI/ML Track Launch: Introduction and Python Basics for AI/ML](https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-aiml-track-launch-introduction-and-python-basics-for-aiml/) | 🤖 AI / ML |
+| 15 Oct 2026 | [Kickstart Your Web Development Journey](https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-kickstart-your-web-development-journey/) | 🌐 Web |
+| 12 Oct 2026 | [Cloud Track Week 1: Cloud Fundamentals](https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-cloud-track-week-1-cloud-fundamentals/) | ☁️ Cloud |
+
+[**See all past events →**](https://gdg.community.dev/gdg-on-campus-technical-university-of-mombasa-mombasa-kenya/)
 
 ## 🪜 Your learning path
 
