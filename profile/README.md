@@ -1,66 +1,85 @@
 <div align="center">
 
-# GDG on Campus TUM 👋
+# GDG on Campus TUM
 
 ### Google Developer Group on Campus · Technical University of Mombasa
 
 **Learn. Build. Grow. Together.**
 
-![Tracks](https://img.shields.io/badge/tracks-cloud%20%C2%B7%20web%20%C2%B7%20mobile%20%C2%B7%20AI%20%C2%B7%20security-4285F4?style=for-the-badge)
-![Level](https://img.shields.io/badge/level-beginner%20friendly-34A853?style=for-the-badge)
-![Join](https://img.shields.io/badge/join-free-FBBC04?style=for-the-badge&labelColor=555)
+![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-EA4335?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Mobile](https://img.shields.io/badge/Mobile-34A853?style=for-the-badge&logo=android&logoColor=white)
+![Security](https://img.shields.io/badge/Cybersecurity-FBBC04?style=for-the-badge&logo=hackthebox&logoColor=black)
+![Women in Tech](https://img.shields.io/badge/Women%20in%20Tech-4285F4?style=for-the-badge)
 
-[**☁️ Cloud Track**](https://github.com/GDG-TUM/Cloud-Track-GDG-on-Campus-TUM) · [**🤖A.I/ML Track**](https://github.com/GDG-TUM/AI-ML-Track-GDG-on-Campus-TUM) .[🔐**Cybersecurity Track**](https://github.com/GDG-TUM/CYBERSECURITY-TRACK-GDG-on-Campus-TUM) .[**WOMEN-TRACK**](https://github.com/GDG-TUM/WOMEN-IN-TECH-TRACK). · [**MOBILE DEVELOPMENT**](https://github.com/GDG-TUM/Mobile-Development-Track-GDG-on-Campus-TUM) . 
-
-[🧭 Share your roadmap](https://github.com/GDG-TUM/member-roadmaps)
-[📋 Chapter board](https://github.com/orgs/GDG-TUM/projects/1) · 
-[💼 LinkedIn](https://www.linkedin.com/company/gdg-on-campus-tum/)
+[**Join us**](#-how-to-join) ·
+[**Tracks**](#-our-tracks) ·
+[**Roadmaps**](https://github.com/GDG-TUM/member-roadmaps) ·
+[**Chapter board**](https://github.com/orgs/GDG-TUM/projects/1) ·
+[**LinkedIn**](https://www.linkedin.com/company/gdg-on-campus-tum/)
 
 </div>
 
 ---
 
-We are a **student-led developer community** at the Technical University of Mombasa. We learn by building, share what we know, and grow together through hands-on workshops, study jams, hackathons and open-source projects.
+## 👋 About us
+
+We are a **student-led developer community** at the Technical University of Mombasa. We learn by building, share what we know, and grow together through hands-on workshops, study jams, hackathons and open-source projects. Beginners are welcome, and so is everyone else.
 
 ## 🚀 What we do
 
-- **Workshops and study jams:** practical sessions on Google technologies and modern development tools
-- **Projects:** real products built by students, for real problems in our community
-- **Hackathons and challenges:** building under pressure and learning from each other
-- **Mentorship:** members at different levels helping each other grow
-- **Industry connections:** events and talks that link students to the wider tech ecosystem
+| | |
+|---|---|
+| 🛠️ **Workshops & study jams** | Practical sessions on Google technologies and modern development tools |
+| 🧱 **Projects** | Real products built by students for real problems in our community |
+| 🏆 **Hackathons & challenges** | Building under pressure and learning from each other |
+| 🤝 **Mentorship** | Members at different levels helping each other grow |
+| 🌍 **Industry connections** | Events and talks that link students to the wider tech ecosystem |
 
 ## 🧭 Our tracks
 
-| Track | Focus | Status |
-|-------|-------|--------|
-| ☁️ **Cloud** | Google Cloud, DevOps, cloud security, infrastructure | [**Open: start here**](https://github.com/GDG-TUM/Cloud-Track-GDG-on-Campus-TUM) |
-| 🌐 **Web** | Frontend, backend, full-stack development | Opening soon |
-| 📱 **Mobile** | Android and cross-platform apps | [**Open: start here**](https://github.com/GDG-TUM/Mobile-Development-Track-GDG-on-Campus-TUM) |
-| 🤖 **AI / ML** | Machine learning, generative AI, data | [**Open: start here**](https://github.com/GDG-TUM/AI-ML-Track-GDG-on-Campus-TUM) |
-| 🔐 **Cybersecurity** | Offensive and defensive security: ethical hacking, red team, SOC, secure coding |[**Open: start here**](https://github.com/GDG-TUM/CYBERSECURITY-TRACK-GDG-on-Campus-TUM)|
+Pick the track that matches what you want to learn. You can join more than one.
 
-## 🤝 How to join in
+| Track | What you'll learn | Start here |
+|:------|:------------------|:-----------|
+| ☁️ **Cloud** | Google Cloud, DevOps, cloud security, infrastructure | [**Open Cloud Track →**](https://github.com/GDG-TUM/Cloud-Track-GDG-on-Campus-TUM) |
+| 🤖 **AI / ML** | Machine learning, generative AI, data | [**Open AI/ML Track →**](https://github.com/GDG-TUM/AI-ML-Track-GDG-on-Campus-TUM) |
+| 📱 **Mobile** | Android and cross-platform apps | [**Open Mobile Track →**](https://github.com/GDG-TUM/Mobile-Development-Track-GDG-on-Campus-TUM) |
+| 🔐 **Cybersecurity** | Ethical hacking, red team, SOC, secure coding | [**Open Cybersecurity Track →**](https://github.com/GDG-TUM/CYBERSECURITY-TRACK-GDG-on-Campus-TUM) |
+| 👩‍💻 **Women in Tech** | Community, mentorship and learning for women in tech | [**Open Women in Tech Track →**](https://github.com/GDG-TUM/WOMEN-IN-TECH-TRACK) |
+| 🌐 **Web** | Frontend, backend, full-stack development | 🔜 Opening soon |
 
-| Step | Do this |
-|:----:|---------|
-| **1** | **Join the organization** (the core team will send you an invitation) and turn on two-factor authentication |
-| **2** | **Share your plan** for the year by opening a Member Roadmap issue in [member-roadmaps](https://github.com/GDG-TUM/member-roadmaps) |
-| **3** | **Start learning** : setup guide, weekly sessions and resources |
-| **4** | **Start learning** with the [Cloud Track](https://github.com/GDG-TUM/Cloud-Track-GDG-on-Campus-TUM)
-| **5** | **Start learning** with the [A.I/Machine Learning Track](https://github.com/GDG-TUM/AI-ML-Track-GDG-on-Campus-TUM)
-| **6** | **Start learning** with the [Mobile Development Track](https://github.com/GDG-TUM/Mobile-Development-Track-GDG-on-Campus-TUM) |
-| **7** | **Start learning** with the [CyberSecurity](https://github.com/GDG-TUM/CYBERSECURITY-TRACK-GDG-on-Campus-TUM): setup guide, weekly sessions and resources |
-| **8** | **Contribute:** read the [contributing guide](https://github.com/GDG-TUM/.github/blob/main/CONTRIBUTING.md), pick an issue labelled `good first issue`, and open a pull request |
-| **9** | **Follow us** on [LinkedIn](https://www.linkedin.com/company/gdg-on-campus-tum/) for events and news |
+## 🤝 How to join
 
-## 📂 What you will find here
+| Step | What to do |
+|:----:|:-----------|
+| **1** | **Join the organization.** The core team will send you an invitation. Turn on two-factor authentication once you're in. |
+| **2** | **Share your plan** for the year by opening a Member Roadmap issue in [member-roadmaps](https://github.com/GDG-TUM/member-roadmaps). |
+| **3** | **Pick a track** from the table above and follow its setup guide, weekly sessions and resources. |
+| **4** | **Contribute.** Read the [contributing guide](https://github.com/GDG-TUM/.github/blob/main/CONTRIBUTING.md), pick an issue labelled `good first issue`, and open a pull request. |
+| **5** | **Stay in the loop.** Follow us on [LinkedIn](https://www.linkedin.com/company/gdg-on-campus-tum/) for events and news. |
+
+## 📂 What you'll find here
 
 Workshop materials, track learning paths, community projects and starter templates. Browse the repositories, pick something that interests you, and contribute.
 
 ## 📅 Events
 
 Our first events and sessions are being planned. Dates will be posted on [LinkedIn](https://www.linkedin.com/company/gdg-on-campus-tum/) and on the [chapter board](https://github.com/orgs/GDG-TUM/projects/1).
+
+<details>
+<summary><b>❓ New here? Common questions</b></summary>
+<br>
+
+**Do I need experience?** No. Every track has beginner-friendly material.
+
+**Does it cost anything?** No, joining is free.
+
+**Can I join more than one track?** Yes.
+
+**How do I get invited to the organization?** Contact the core team using the details below and they will send you an invitation.
+
+</details>
 
 ## 🛡️ Community
 
@@ -72,6 +91,6 @@ We want everyone to feel welcome here. Please read our [Code of Conduct](https:/
 
 <div align="center">
 
-*We think you are going to like it here.* 💙
+*We think you're going to like it here.* 💙
 
 </div>
