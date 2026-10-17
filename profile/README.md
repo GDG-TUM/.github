@@ -112,12 +112,14 @@ Dates will be posted on [LinkedIn](https://www.linkedin.com/company/gdg-on-campu
 
 | Role | Name |
 |:-----|:-----|
-| 🧭 **Chapter Lead** | *Name* |
-| ☁️ **Cloud Track Lead** | *Name* |
-| 🤖 **AI / ML Track Lead** | *Name* |
-| 📱 **Mobile Track Lead** | *Name* |
-| 🔐 **Cybersecurity Track Lead** | *Name* |
-| 👩‍💻 **Women in Tech Lead** | *Name* |
+| 🧭 **Chapter Lead** | Michelle Ndunge |(https://github.com/Dahliastar)
+| ☁️ **Cloud Track Lead** | Mark Karuga |(https://github.com/Markkaruga254)
+| 🤖 **AI / ML Track Lead** | Lewis Kagiri |(https://github.com/10kwise)
+| 📱 **Mobile Track Lead** | Ian Chacha | (https://github.com/ianchacha)
+| 🔐 **Cybersecurity Track Lead** | Kimberly Gift |(https://github.com/kimmy-sec)
+| 👩‍💻 **Women in Tech Lead** | Larah Flynn |(https://github.com/larah-del)
+|    **Hackathons & Solutions** | Edith Karanja | (https://github.com/edithcalm)
+|   **Web Development**| Sam Ryan | (https://github.com/Ryanking254)
 
 <details>
 <summary><b>❓ New here? Common questions</b></summary>
