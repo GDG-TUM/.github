@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:4285F4,35:EA4335,70:FBBC04,100:34A853&text=GDG%20on%20Campus%20TUM&fontColor=ffffff&fontSize=44&fontAlignY=38&animation=fadeIn&desc=Technical%20University%20of%20Mombasa&descSize=18&descAlignY=60" alt="GDG on Campus TUM" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&width=720&lines=Learn.+Build.+Grow.+Together.;A+student-led+developer+community;Cloud+%C2%B7+AI%2FML+%C2%B7+Mobile+%C2%B7+Security+%C2%B7+Web;Beginner+friendly.+Free+to+join." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&width=720&lines=Learn.+Build.+Grow.+Together.;A+student-led+developer+community;Cloud+%C2%B7+AI%2FML+%C2%B7+Mobile+%C2%B7+Security+%C2%B7+Web;Idea+%E2%86%92+Build+%E2%86%92+Pitch+%E2%86%92+Impact" alt="Typing animation" />
 
 <br>
 
@@ -11,10 +11,12 @@
 ![Mobile](https://img.shields.io/badge/Mobile-34A853?style=for-the-badge&logo=android&logoColor=white)
 ![Security](https://img.shields.io/badge/Cybersecurity-FBBC04?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![Women in Tech](https://img.shields.io/badge/Women%20in%20Tech-4285F4?style=for-the-badge)
+![Hackathons](https://img.shields.io/badge/Hackathons-EA4335?style=for-the-badge)
 
 [**Join us**](#-how-to-join) ·
 [**Tracks**](#-our-tracks) ·
-[**Learning path**](#-your-learning-path) ·
+[**Hackathons**](#-hackathons-and-solutions) ·
+[**Team**](#-meet-the-team) ·
 [**Roadmaps**](https://github.com/GDG-TUM/member-roadmaps) ·
 [**Chapter board**](https://github.com/orgs/GDG-TUM/projects/1) ·
 [**LinkedIn**](https://www.linkedin.com/company/gdg-on-campus-tum/)
@@ -34,7 +36,7 @@ We are a **student-led developer community** at the Technical University of Momb
 | 🧠 **Learn by doing** | Every track is built around hands-on labs and projects, not just slides |
 | 🌐 **Build a public portfolio** | Your work lives on GitHub, where recruiters and collaborators can see it |
 | 🤝 **Learn with peers and mentors** | Members at every level help each other grow |
-| 🚀 **Ship real things** | Solve problems in our own community and campus |
+| 🚀 **Ship real things** | Turn real problems in our community into working solutions |
 | 🔗 **Open doors** | Events, talks and connections across the wider tech ecosystem |
 
 ## 🚀 What we do
@@ -43,7 +45,7 @@ We are a **student-led developer community** at the Technical University of Momb
 |---|---|
 | 🛠️ **Workshops & study jams** | Practical sessions on Google technologies and modern development tools |
 | 🧱 **Projects** | Real products built by students for real problems |
-| 🏆 **Hackathons & challenges** | Building under pressure and learning from each other |
+| 🏆 **Hackathons & buildathons** | Weekly challenges and preparation for the Google Solution Challenge |
 | 🎤 **Tech talks** | Industry speakers and member-led sessions |
 | 🔓 **Open source** | Contributing to community repositories with real pull requests |
 
@@ -58,18 +60,36 @@ Pick the track that matches what you want to learn. You can join more than one.
 | 📱 **Mobile** | Android and cross-platform apps | ![](https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,firebase&perline=4) | [**Open →**](https://github.com/GDG-TUM/Mobile-Development-Track-GDG-on-Campus-TUM) |
 | 🔐 **Cybersecurity** | Ethical hacking, red team, SOC, secure coding | ![](https://skillicons.dev/icons?i=linux,bash,python,wireshark&perline=4) | [**Open →**](https://github.com/GDG-TUM/CYBERSECURITY-TRACK-GDG-on-Campus-TUM) |
 | 👩‍💻 **Women in Tech** | Community, mentorship and learning for women in tech | 💜 | [**Open →**](https://github.com/GDG-TUM/WOMEN-IN-TECH-TRACK) |
+| 🏆 **Hackathons & Solutions** | Problem discovery, MVPs, pitching, Google Solution Challenge | 💡 | [**Open →**](https://github.com/GDG-TUM/GDGoC-TUM-Hackathon-Structure) |
 | 🌐 **Web** | Frontend, backend, full-stack development | ![](https://skillicons.dev/icons?i=html,css,js,react,nodejs&perline=5) | 🔜 Opening soon |
 
-## 🪜 Your learning path
+## 🏆 Hackathons and Solutions
+
+Our hackathon programme makes competitions approachable for beginners. It combines a semester roadmap, weekly cross-track buildathons and a clear path from idea to demo.
 
 ```mermaid
 flowchart LR
-    A[Join the org] --> B[Share your roadmap]
-    B --> C[Pick a track]
-    C --> D[Attend sessions and labs]
-    D --> E[Build a project]
-    E --> F[Contribute and mentor]
+    A[💡 IDEA<br/>Find a real problem] --> B[🛠️ BUILD<br/>Ship an MVP]
+    B --> C[🎤 PITCH<br/>Tell the story]
+    C --> D[🌍 IMPACT<br/>Compete and continue]
 ```
+
+### Semester roadmap: 19 October to 14 December 2026
+
+| Block | Dates | Focus | You'll walk away with |
+|:-----:|:------|:------|:----------------------|
+| **1** | 19 Oct – 1 Nov | Foundations, problem discovery, SDGs, team formation | A problem statement, a target user and a team |
+| **2** | 2 – 15 Nov | Ideation, solution design, MVP planning | A chosen solution, MVP scope and a build plan |
+| **3** | 16 – 29 Nov | Build with Google, prototype, validate, iterate | A working prototype and recorded feedback |
+| **4** | 30 Nov – 14 Dec | Pitching, demo practice, competition readiness | A pitch deck, a rehearsed demo and next steps |
+
+### Weekly buildathons
+
+We run **at least two buildathon challenges every week** across Web, Cloud, Mobile, AI/ML and Cybersecurity. Challenges are announced in the official GDG groups, so watch there for deadlines and submission instructions.
+
+[**Explore the full hackathon programme →**](https://github.com/GDG-TUM/GDGoC-TUM-Hackathon-Structure)
+
+## 🪜 Your learning path
 
 | Stage | What it looks like |
 |:------|:-------------------|
@@ -85,41 +105,50 @@ flowchart LR
 | **1** | **Join the organization.** The core team will send you an invitation. Turn on two-factor authentication once you're in. |
 | **2** | **Share your plan** for the year by opening a Member Roadmap issue in [member-roadmaps](https://github.com/GDG-TUM/member-roadmaps). |
 | **3** | **Pick a track** from the table above and follow its setup guide, weekly sessions and resources. |
-| **4** | **Contribute.** Read the [contributing guide](https://github.com/GDG-TUM/.github/blob/main/CONTRIBUTING.md), pick an issue labelled `good first issue`, and open a pull request. |
-| **5** | **Stay in the loop.** Follow us on [LinkedIn](https://www.linkedin.com/company/gdg-on-campus-tum/) for events and news. |
-
-## 🛠️ Featured projects
-
-> Projects built by our members will be showcased here.
-
-| Project | Track | Description |
-|:--------|:------|:------------|
-| 🔗 *[Project name](#)* | ☁️ Cloud | *One line on what it does and who it helps* |
-| 🔗 *[Project name](#)* | 🤖 AI / ML | *One line on what it does and who it helps* |
-| 🔗 *[Project name](#)* | 📱 Mobile | *One line on what it does and who it helps* |
-
-## 📅 Events
-
-| When | What | Where |
-|:-----|:-----|:------|
-| *Date TBA* | 🎉 Kickoff and welcome session | *Venue TBA* |
-| *Date TBA* | 🛠️ First track workshops | *Venue TBA* |
-| *Date TBA* | 🏆 Community hackathon | *Venue TBA* |
-
-Dates will be posted on [LinkedIn](https://www.linkedin.com/company/gdg-on-campus-tum/) and on the [chapter board](https://github.com/orgs/GDG-TUM/projects/1).
+| **4** | **Join a buildathon.** Watch the official groups for the weekly challenges and team up through the [hackathon programme](https://github.com/GDG-TUM/GDGoC-TUM-Hackathon-Structure). |
+| **5** | **Contribute.** Read the [contributing guide](https://github.com/GDG-TUM/.github/blob/main/CONTRIBUTING.md), pick an issue labelled `good first issue`, and open a pull request. |
+| **6** | **Stay in the loop.** Follow us on [LinkedIn](https://www.linkedin.com/company/gdg-on-campus-tum/) for events and news. |
 
 ## 👥 Meet the team
 
-| Role | Name |
-|:-----|:-----|
-| 🧭 **Chapter Lead** | Michelle Ndunge |(https://github.com/Dahliastar)
-| ☁️ **Cloud Track Lead** | Mark Karuga |(https://github.com/Markkaruga254)
-| 🤖 **AI / ML Track Lead** | Lewis Kagiri |(https://github.com/10kwise)
-| 📱 **Mobile Track Lead** | Ian Chacha | (https://github.com/ianchacha)
-| 🔐 **Cybersecurity Track Lead** | Kimberly Gift |(https://github.com/kimmy-sec)
-| 👩‍💻 **Women in Tech Lead** | Larah Flynn |(https://github.com/larah-del)
-|    **Hackathons & Solutions** | Edith Karanja | (https://github.com/edithcalm)
-|   **Web Development**| Sam Ryan | (https://github.com/Ryanking254)
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/Dahliastar"><img src="https://github.com/Dahliastar.png?size=100" width="100" alt="Michelle Ndunge" /></a><br />
+      <b>Michelle Ndunge</b><br />🧭 Chapter Lead
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/Markkaruga254"><img src="https://github.com/Markkaruga254.png?size=100" width="100" alt="Mark Karuga" /></a><br />
+      <b>Mark Karuga</b><br />☁️ Cloud Track Lead
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/10kwise"><img src="https://github.com/10kwise.png?size=100" width="100" alt="Lewis Kagiri" /></a><br />
+      <b>Lewis Kagiri</b><br />🤖 AI / ML Track Lead
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/ianchacha"><img src="https://github.com/ianchacha.png?size=100" width="100" alt="Ian Chacha" /></a><br />
+      <b>Ian Chacha</b><br />📱 Mobile Track Lead
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/kimmy-sec"><img src="https://github.com/kimmy-sec.png?size=100" width="100" alt="Kimberly Gift" /></a><br />
+      <b>Kimberly Gift</b><br />🔐 Cybersecurity Track Lead
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/larah-del"><img src="https://github.com/larah-del.png?size=100" width="100" alt="Larah Flynn" /></a><br />
+      <b>Larah Flynn</b><br />👩‍💻 Women in Tech Lead
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/edithcalm"><img src="https://github.com/edithcalm.png?size=100" width="100" alt="Edith Karanja" /></a><br />
+      <b>Edith Karanja</b><br />🏆 Hackathons & Solutions
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/Ryanking254"><img src="https://github.com/Ryanking254.png?size=100" width="100" alt="Sam Ryan" /></a><br />
+      <b>Sam Ryan</b><br />🌐 Web Development
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><b>❓ New here? Common questions</b></summary>
@@ -133,13 +162,11 @@ Dates will be posted on [LinkedIn](https://www.linkedin.com/company/gdg-on-campu
 
 **I'm not a computer science student. Can I join?** Yes. Anyone at the university who wants to learn is welcome.
 
+**I've never done a hackathon. Is it for me?** Yes. The hackathon programme is designed for beginners and walks you from finding a problem to presenting a demo.
+
 **How do I get invited to the organization?** Contact the core team using the details below and they will send you an invitation.
 
 </details>
-
-## 📂 What you'll find here
-
-Workshop materials, track learning paths, community projects and starter templates. Browse the repositories, pick something that interests you, and contribute.
 
 ## 🛡️ Community
 
