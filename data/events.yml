@@ -1,0 +1,38 @@
+events:
+  - title: "Tools of the Trade Workshop: Linux, Git & Docker"
+    date: 2026-10-19
+    track: cloud
+    series: Week 2
+    emoji: "🐧"
+    free: true
+    url: https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-tools-of-the-trade-workshop-linux-git-amp-docker/
+    description: >
+      Cloud Track Week 2 presents "Tools of the Trade", a hands-on workshop on
+      containerization using Linux, Git and Docker. You'll learn how to build and
+      deploy containers with Google Cloud Run. It's ideal for tech enthusiasts who
+      want to sharpen their skills and network with peers.
+    learn:
+      - "🐧 Work confidently in the Linux command line"
+      - "🌿 Use Git to version and share your work"
+      - "🐳 Package applications into Docker containers"
+      - "☁️ Deploy a container to Google Cloud Run"
+
+  - title: "Discovering the Cybersecurity World: Would You Survive a Phishing Attack?"
+    date: 2026-10-16
+    track: cybersecurity
+    url: https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-discovering-the-cybersecurity-world-would-you-survive-a-phishing-attack/
+
+  - title: "AI/ML Track Launch: Introduction and Python Basics for AI/ML"
+    date: 2026-10-15
+    track: ai-ml
+    url: https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-aiml-track-launch-introduction-and-python-basics-for-aiml/
+
+  - title: "Kickstart Your Web Development Journey"
+    date: 2026-10-15
+    track: web
+    url: https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-kickstart-your-web-development-journey/
+
+  - title: "Cloud Track Week 1: Cloud Fundamentals"
+    date: 2026-10-12
+    track: cloud
+    url: https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-cloud-track-week-1-cloud-fundamentals/
