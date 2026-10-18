@@ -97,13 +97,13 @@ We run **at least two buildathon challenges every week** across Web, Cloud, Mobi
   <tr>
     <td>
 
-![Date](https://img.shields.io/badge/📆%2019%20Oct%202026-4285F4?style=for-the-badge)
-![Free](https://img.shields.io/badge/Free%20registration-34A853?style=for-the-badge)
-![Track](https://img.shields.io/badge/☁️%20Cloud%20Track%20·%20Week%202-FBBC04?style=for-the-badge&labelColor=555)
+![📆 19 Oct 2026](https://img.shields.io/badge/%F0%9F%93%86%2019%20Oct%202026-4285F4?style=for-the-badge)
+![Free registration](https://img.shields.io/badge/Free%20registration-34A853?style=for-the-badge)
+![☁️ Cloud · Week 2](https://img.shields.io/badge/%E2%98%81%EF%B8%8F%20Cloud%20%C2%B7%20Week%202-4285F4?style=for-the-badge)
 
 ### 🐧 Tools of the Trade Workshop: Linux, Git & Docker
 
-Cloud Track Week 2 presents **"Tools of the Trade"**, a hands-on workshop on containerization using Linux, Git and Docker. You'll learn how to build and deploy containers with **Google Cloud Run**. It's ideal for tech enthusiasts who want to sharpen their skills and network with peers.
+Cloud Track Week 2 presents "Tools of the Trade", a hands-on workshop on containerization using Linux, Git and Docker. You'll learn how to build and deploy containers with Google Cloud Run. It's ideal for tech enthusiasts who want to sharpen their skills and network with peers.
 
 **You'll learn how to:**
 - 🐧 Work confidently in the Linux command line
