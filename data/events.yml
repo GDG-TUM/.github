@@ -1,15 +1,10 @@
-upcoming_events:
-- title: 'Tools of the Trade Workshop: Linux, Git, & Docker'
-  track: cloud
-  url: https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-tools-of-the-trade-workshop-linux-git-amp-docker/
-  date: '2026-10-19'
 - title: Web Development Essentials Make-Up Session
   track: web track
   series: Week 2
   emoji: 🐧
   free: true
   url: https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-web-development-essentials-make-up-session-1/
-  description: '"Join Web Track Lead Samryan Adeny for an online make-up session on
+  description: "Join Web Track Lead Samryan Adeny for an online make-up session on
     web development basics covering HTML, CSS, and JavaScript. Perfect for beginners
     and experienced developers alike, this session offers a chance to enhance skills
     and connect with peers. Tune in at 10:00 a.m. on October 21, 2026, via Google
@@ -21,6 +16,10 @@ upcoming_events:
     as well as for experienced developers to enhance their expertise. '
   date: '2026-10-21'
 past_events:
+- title: 'Tools of the Trade Workshop: Linux, Git, & Docker'
+  track: cloud
+  url: https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-tools-of-the-trade-workshop-linux-git-amp-docker/
+  date: '2026-10-19'
 - title: 'Discovering the Cybersecurity World: Would You Survive a Phishing Attack?'
   track: cybersecurity
   url: https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-discovering-the-cybersecurity-world-would-you-survive-a-phishing-attack/
