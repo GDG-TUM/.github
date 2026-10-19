@@ -1,37 +1,39 @@
-events:
-  - title: "Web Development Essentials Make-Up Session"
-    date: 2026-10-21
-    track: web track
-    series: Week 2
-    emoji: "🐧"
-    free: true
-    url: https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-web-development-essentials-make-up-session-1/
-    description: >
-      "Join Web Track Lead Samryan Adeny for an online make-up session on web development basics covering HTML, CSS, and JavaScript. Perfect for beginners and experienced developers alike, this session offers a chance to enhance skills and connect with peers. Tune in at 10:00 a.m. on October 21, 2026, via Google Meet. Register now to secure your spot and elevate your web development journey."
-    learn:
-      "This session will cover the core elements of HTML, CSS, and JavaScript, making it a perfect opportunity for newcomers to gain foundational knowledge, as well as for experienced developers to enhance their expertise. "
+upcoming_events:
+- title: 'Tools of the Trade Workshop: Linux, Git, & Docker'
+  track: cloud
+  url: https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-tools-of-the-trade-workshop-linux-git-amp-docker/
+  date: '2026-10-19'
+- title: Web Development Essentials Make-Up Session
+  track: web track
+  series: Week 2
+  emoji: 🐧
+  free: true
+  url: https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-web-development-essentials-make-up-session-1/
+  description: '"Join Web Track Lead Samryan Adeny for an online make-up session on
+    web development basics covering HTML, CSS, and JavaScript. Perfect for beginners
+    and experienced developers alike, this session offers a chance to enhance skills
+    and connect with peers. Tune in at 10:00 a.m. on October 21, 2026, via Google
+    Meet. Register now to secure your spot and elevate your web development journey."
 
-  - title: "Tools of the Trade Workshop: Linux, Git, & Docker"
-    date: 2026-10-19
-    track: cloud
-    url: https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-tools-of-the-trade-workshop-linux-git-amp-docker/
-
-  - title: "Discovering the Cybersecurity World: Would You Survive a Phishing Attack?"
-    date: 2026-10-16
-    track: cybersecurity
-    url: https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-discovering-the-cybersecurity-world-would-you-survive-a-phishing-attack/
-
-  - title: "AI/ML Track Launch: Introduction and Python Basics for AI/ML"
-    date: 2026-10-15
-    track: ai-ml
-    url: https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-aiml-track-launch-introduction-and-python-basics-for-aiml/
-
-  - title: "Kickstart Your Web Development Journey"
-    date: 2026-10-15
-    track: web
-    url: https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-kickstart-your-web-development-journey/
-
-  - title: "Cloud Track Week 1: Cloud Fundamentals"
-    date: 2026-10-12
-    track: cloud
-    url: https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-cloud-track-week-1-cloud-fundamentals/
+    '
+  learn: 'This session will cover the core elements of HTML, CSS, and JavaScript,
+    making it a perfect opportunity for newcomers to gain foundational knowledge,
+    as well as for experienced developers to enhance their expertise. '
+  date: '2026-10-21'
+past_events:
+- title: 'Discovering the Cybersecurity World: Would You Survive a Phishing Attack?'
+  track: cybersecurity
+  url: https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-discovering-the-cybersecurity-world-would-you-survive-a-phishing-attack/
+  date: '2026-10-16'
+- title: 'AI/ML Track Launch: Introduction and Python Basics for AI/ML'
+  track: ai-ml
+  url: https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-aiml-track-launch-introduction-and-python-basics-for-aiml/
+  date: '2026-10-15'
+- title: Kickstart Your Web Development Journey
+  track: web
+  url: https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-kickstart-your-web-development-journey/
+  date: '2026-10-15'
+- title: 'Cloud Track Week 1: Cloud Fundamentals'
+  track: cloud
+  url: https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-cloud-track-week-1-cloud-fundamentals/
+  date: '2026-10-12'

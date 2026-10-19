@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Regenerate the events sections of the org profile README from data/events.yml."""
+"""Regenerate event sections and transition event collections in data/events.yml."""
 import re
 import sys
 from datetime import date, datetime
@@ -29,14 +29,66 @@ TRACKS = {
 
 def load_events():
     raw = yaml.safe_load(DATA.read_text(encoding="utf-8")) or {}
-    events = []
-    for e in raw.get("events", []):
+    upcoming = []
+    for e in [*raw.get("upcoming_events", []), *raw.get("events", [])]:
         d = e["date"]
         if isinstance(d, str):
             d = datetime.strptime(d, "%Y-%m-%d").date()
-        e["date"] = d
-        events.append(e)
-    return events
+        upcoming.append({**e, "date": d})
+    past = []
+    for e in raw.get("past_events", []):
+        d = e["date"]
+        if isinstance(d, str):
+            d = datetime.strptime(d, "%Y-%m-%d").date()
+        past.append({**e, "date": d})
+    return raw, upcoming, past
+
+
+def event_key(e):
+    return (str(e.get("title", "")), e["date"].isoformat(), str(e.get("url", "")))
+
+
+def dedupe_events(events):
+    seen = set()
+    out = []
+    for e in events:
+        k = event_key(e)
+        if k in seen:
+            continue
+        seen.add(k)
+        out.append(e)
+    return out
+
+
+def transition_events(upcoming, past, today):
+    upcoming = dedupe_events(upcoming)
+    past = dedupe_events(past)
+    moved_to_past = [e for e in upcoming if e["date"] < today]
+    remaining_upcoming = [e for e in upcoming if e["date"] >= today]
+    past = dedupe_events([*past, *moved_to_past])
+    return (
+        sorted(remaining_upcoming, key=lambda e: e["date"]),
+        sorted(past, key=lambda e: e["date"], reverse=True),
+    )
+
+
+def serialise_events(events):
+    out = []
+    for e in events:
+        item = {k: v for k, v in e.items() if k != "date"}
+        item["date"] = e["date"].isoformat()
+        out.append(item)
+    return out
+
+
+def save_events(raw, upcoming, past):
+    new_raw = {
+        **{k: v for k, v in raw.items() if k not in {"events", "upcoming_events", "past_events"}},
+        "upcoming_events": serialise_events(upcoming),
+        "past_events": serialise_events(past),
+    }
+    text = yaml.safe_dump(new_raw, sort_keys=False, allow_unicode=True)
+    DATA.write_text(text, encoding="utf-8")
 
 
 def fmt_date(d: date) -> str:
@@ -74,8 +126,10 @@ def render_featured(e) -> str:
         lines += [" · ".join(bits), ""]
     if e.get("description"):
         lines += [" ".join(str(e["description"]).split()), ""]
-    if e.get("learn"):
-        lines += ["**You'll learn how to:**"] + [f"- {item}" for item in e["learn"]] + [""]
+    learn = e.get("learn")
+    if learn:
+        learn_items = learn if isinstance(learn, list) else [learn]
+        lines += ["**You'll learn how to:**"] + [f"- {item}" for item in learn_items] + [""]
     lines += [
         f"[**👉 Register{' for free' if e.get('free', True) else ''}**]({e['url']})", "",
         "</td>", "  </tr>", "</table>",
@@ -112,9 +166,9 @@ def replace_block(text: str, name: str, body: str) -> str:
 
 def main():
     today = datetime.now(TZ).date()
-    events = load_events()
-    upcoming = sorted((e for e in events if e["date"] >= today), key=lambda e: e["date"])
-    past = sorted((e for e in events if e["date"] < today), key=lambda e: e["date"], reverse=True)
+    raw, upcoming, past = load_events()
+    upcoming, past = transition_events(upcoming, past, today)
+    save_events(raw, upcoming, past)
 
     text = README.read_text(encoding="utf-8")
     new = replace_block(text, "UPCOMING", render_upcoming(upcoming))
