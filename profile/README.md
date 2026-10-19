@@ -97,21 +97,233 @@ We run **at least two buildathon challenges every week** across Web, Cloud, Mobi
   <tr>
     <td>
 
-![📆 19 Oct 2026](https://img.shields.io/badge/%F0%9F%93%86%2019%20Oct%202026-4285F4?style=for-the-badge)
+![📆 21 Oct 2026](https://img.shields.io/badge/%F0%9F%93%86%2021%20Oct%202026-4285F4?style=for-the-badge)
 ![Free registration](https://img.shields.io/badge/Free%20registration-34A853?style=for-the-badge)
-![☁️ Cloud · Week 2](https://img.shields.io/badge/%E2%98%81%EF%B8%8F%20Cloud%20%C2%B7%20Week%202-4285F4?style=for-the-badge)
+![🎉 Community · Week 2](https://img.shields.io/badge/%F0%9F%8E%89%20Community%20%C2%B7%20Week%202-4285F4?style=for-the-badge)
 
-### 🐧 Tools of the Trade Workshop: Linux, Git & Docker
+### 🐧 Web Development Essentials Make-Up Session
 
-Cloud Track Week 2 presents "Tools of the Trade", a hands-on workshop on containerization using Linux, Git and Docker. You'll learn how to build and deploy containers with Google Cloud Run. It's ideal for tech enthusiasts who want to sharpen their skills and network with peers.
+Join Web Track Lead Samryan Adeny for an online make-up session on web development basics covering HTML, CSS, and JavaScript. Perfect for beginners and experienced developers alike, this session offers a chance to enhance skills and connect with peers. Tune in at 10:00 a.m. on October 21, 2026, via Google Meet. Register now to secure your spot and elevate your web development journey.
 
 **You'll learn how to:**
-- 🐧 Work confidently in the Linux command line
-- 🌿 Use Git to version and share your work
-- 🐳 Package applications into Docker containers
-- ☁️ Deploy a container to Google Cloud Run
+- T
+- h
+- i
+- s
+-  
+- s
+- e
+- s
+- s
+- i
+- o
+- n
+-  
+- w
+- i
+- l
+- l
+-  
+- c
+- o
+- v
+- e
+- r
+-  
+- t
+- h
+- e
+-  
+- c
+- o
+- r
+- e
+-  
+- e
+- l
+- e
+- m
+- e
+- n
+- t
+- s
+-  
+- o
+- f
+-  
+- H
+- T
+- M
+- L
+- ,
+-  
+- C
+- S
+- S
+- ,
+-  
+- a
+- n
+- d
+-  
+- J
+- a
+- v
+- a
+- S
+- c
+- r
+- i
+- p
+- t
+- ,
+-  
+- m
+- a
+- k
+- i
+- n
+- g
+-  
+- i
+- t
+-  
+- a
+-  
+- p
+- e
+- r
+- f
+- e
+- c
+- t
+-  
+- o
+- p
+- p
+- o
+- r
+- t
+- u
+- n
+- i
+- t
+- y
+-  
+- f
+- o
+- r
+-  
+- n
+- e
+- w
+- c
+- o
+- m
+- e
+- r
+- s
+-  
+- t
+- o
+-  
+- g
+- a
+- i
+- n
+-  
+- f
+- o
+- u
+- n
+- d
+- a
+- t
+- i
+- o
+- n
+- a
+- l
+-  
+- k
+- n
+- o
+- w
+- l
+- e
+- d
+- g
+- e
+- ,
+-  
+- a
+- s
+-  
+- w
+- e
+- l
+- l
+-  
+- a
+- s
+-  
+- f
+- o
+- r
+-  
+- e
+- x
+- p
+- e
+- r
+- i
+- e
+- n
+- c
+- e
+- d
+-  
+- d
+- e
+- v
+- e
+- l
+- o
+- p
+- e
+- r
+- s
+-  
+- t
+- o
+-  
+- e
+- n
+- h
+- a
+- n
+- c
+- e
+-  
+- t
+- h
+- e
+- i
+- r
+-  
+- e
+- x
+- p
+- e
+- r
+- t
+- i
+- s
+- e
+- .
+-  
 
-[**👉 Register for free**](https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-tools-of-the-trade-workshop-linux-git-amp-docker/)
+[**👉 Register for free**](https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-web-development-essentials-make-up-session-1/)
 
 </td>
   </tr>
