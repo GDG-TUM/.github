@@ -97,23 +97,22 @@ We run **at least two buildathon challenges every week** across Web, Cloud, Mobi
   <tr>
     <td>
 
-![📆 19 Oct 2026](https://img.shields.io/badge/%F0%9F%93%86%2019%20Oct%202026-4285F4?style=for-the-badge)
+![📆 21 Oct 2026](https://img.shields.io/badge/%F0%9F%93%86%2021%20Oct%202026-4285F4?style=for-the-badge)
 ![Free registration](https://img.shields.io/badge/Free%20registration-34A853?style=for-the-badge)
-![☁️ Cloud](https://img.shields.io/badge/%E2%98%81%EF%B8%8F%20Cloud-4285F4?style=for-the-badge)
+![🎉 Community · Week 2](https://img.shields.io/badge/%F0%9F%8E%89%20Community%20%C2%B7%20Week%202-4285F4?style=for-the-badge)
 
-### 📌 Tools of the Trade Workshop: Linux, Git, & Docker
+### 🐧 Web Development Essentials Make-Up Session
 
-[**👉 Register for free**](https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-tools-of-the-trade-workshop-linux-git-amp-docker/)
+Join Web Track Lead Samryan Adeny for an online make-up session on web development basics covering HTML, CSS, and JavaScript. Perfect for beginners and experienced developers alike, this session offers a chance to enhance skills and connect with peers. Tune in at 10:00 a.m. on October 21, 2026, via Google Meet. Register now to secure your spot and elevate your web development journey.
+
+**You'll learn how to:**
+- This session will cover the core elements of HTML, CSS, and JavaScript, making it a perfect opportunity for newcomers to gain foundational knowledge, as well as for experienced developers to enhance their expertise. 
+
+[**👉 Register for free**](https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-web-development-essentials-make-up-session-1/)
 
 </td>
   </tr>
 </table>
-
-**Also coming up**
-
-| Date | Event | Track |
-|:-----|:------|:------|
-| 21 Oct 2026 | [Web Development Essentials Make-Up Session](https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-web-development-essentials-make-up-session-1/) | 🎉 Community |
 <!-- UPCOMING:END -->
 
 > 🔔 More sessions are announced on our [GDG community page](https://gdg.community.dev/gdg-on-campus-technical-university-of-mombasa-mombasa-kenya/), on [LinkedIn](https://www.linkedin.com/company/gdg-on-campus-tum/) and on the [chapter board](https://github.com/orgs/GDG-TUM/projects/1).
@@ -125,6 +124,7 @@ A look at what we've already run this semester.
 <!-- PAST:START -->
 | Date | Event | Track |
 |:-----|:------|:------|
+| 19 Oct 2026 | [Tools of the Trade Workshop: Linux, Git, & Docker](https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-tools-of-the-trade-workshop-linux-git-amp-docker/) | ☁️ Cloud |
 | 16 Oct 2026 | [Discovering the Cybersecurity World: Would You Survive a Phishing Attack?](https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-discovering-the-cybersecurity-world-would-you-survive-a-phishing-attack/) | 🔐 Cybersecurity |
 | 15 Oct 2026 | [AI/ML Track Launch: Introduction and Python Basics for AI/ML](https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-aiml-track-launch-introduction-and-python-basics-for-aiml/) | 🤖 AI / ML |
 | 15 Oct 2026 | [Kickstart Your Web Development Journey](https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-kickstart-your-web-development-journey/) | 🌐 Web |
