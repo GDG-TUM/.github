@@ -3,6 +3,7 @@ from pathlib import Path
 import importlib.util
 import unittest
 
+import yaml
 
 MODULE_PATH = Path(__file__).resolve().parents[1] / "scripts" / "update_events.py"
 SPEC = importlib.util.spec_from_file_location("update_events", MODULE_PATH)
@@ -11,6 +12,14 @@ SPEC.loader.exec_module(update_events)
 
 
 class UpdateEventsTests(unittest.TestCase):
+    def test_events_file_is_valid_yaml_with_upcoming_events(self):
+        events_path = Path(__file__).resolve().parents[1] / "data" / "events.yml"
+        events = yaml.safe_load(events_path.read_text(encoding="utf-8"))
+
+        self.assertIsInstance(events, dict)
+        self.assertIn("upcoming_events", events)
+        self.assertIsInstance(events["upcoming_events"], list)
+
     def test_transition_moves_expired_events_without_duplicates(self):
         today = date(2026, 10, 20)
         upcoming = [
