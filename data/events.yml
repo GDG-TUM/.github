@@ -7,7 +7,8 @@ upcoming_events:
   url: https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-kickstart-your-mobile-development-journey/
   description: an interactive session that includes an Android Studio tour and setup,
     a quick Kotlin workshop, and a captivating Flutter demo
-  learn: how to set up and navigate Android Studio, code using Kotlin, and build cross-platform apps with Flutter,
+  learn: how to set up and navigate Android Studio, code using Kotlin, and build cross-platform
+    apps with Flutter,
   date: '2026-10-27'
 past_events:
 - title: Web Development Essentials Make-Up Session

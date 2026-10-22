@@ -106,7 +106,7 @@ We run **at least two buildathon challenges every week** across Web, Cloud, Mobi
 an interactive session that includes an Android Studio tour and setup, a quick Kotlin workshop, and a captivating Flutter demo
 
 **You'll learn how to:**
-- an interactive session that includes an Android Studio tour and setup, a quick Kotlin workshop, and a captivating Flutter demo,
+- how to set up and navigate Android Studio, code using Kotlin, and build cross-platform apps with Flutter,
 
 [**👉 Register for free**](https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-kickstart-your-mobile-development-journey/)
 
