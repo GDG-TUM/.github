@@ -93,7 +93,26 @@ We run **at least two buildathon challenges every week** across Web, Cloud, Mobi
 ## 📅 Upcoming events
 
 <!-- UPCOMING:START -->
-_No events scheduled right now. Follow us on LinkedIn to hear about the next session._
+<table>
+  <tr>
+    <td>
+
+![📆 27 Oct 2026](https://img.shields.io/badge/%F0%9F%93%86%2027%20Oct%202026-4285F4?style=for-the-badge)
+![Free registration](https://img.shields.io/badge/Free%20registration-34A853?style=for-the-badge)
+![🎉 Community · Week 1](https://img.shields.io/badge/%F0%9F%8E%89%20Community%20%C2%B7%20Week%201-4285F4?style=for-the-badge)
+
+### 📱 Mobile Development
+
+an interactive session that includes an Android Studio tour and setup, a quick Kotlin workshop, and a captivating Flutter demo
+
+**You'll learn how to:**
+- an interactive session that includes an Android Studio tour and setup, a quick Kotlin workshop, and a captivating Flutter demo,
+
+[**👉 Register for free**](https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-mombasa-mombasa-kenya-presents-kickstart-your-mobile-development-journey/)
+
+</td>
+  </tr>
+</table>
 <!-- UPCOMING:END -->
 
 > 🔔 More sessions are announced on our [GDG community page](https://gdg.community.dev/gdg-on-campus-technical-university-of-mombasa-mombasa-kenya/), on [LinkedIn](https://www.linkedin.com/company/gdg-on-campus-tum/) and on the [chapter board](https://github.com/orgs/GDG-TUM/projects/1).
