@@ -62,7 +62,7 @@ Pick the track that matches what you want to learn. You can join more than one.
 | 🔐 **Cybersecurity** | Ethical hacking, red team, SOC, secure coding | ![](https://skillicons.dev/icons?i=linux,bash,python,wireshark&perline=4) | [**Open →**](https://github.com/GDG-TUM/CYBERSECURITY-TRACK-GDG-on-Campus-TUM) |
 | 👩‍💻 **Women in Tech** | Community, mentorship and learning for women in tech | 💜 | [**Open →**](https://github.com/GDG-TUM/WOMEN-IN-TECH-TRACK) |
 | 🏆 **Hackathons & Solutions** | Problem discovery, MVPs, pitching, Google Solution Challenge | 💡 | [**Open →**](https://github.com/GDG-TUM/GDGoC-TUM-Hackathon-Structure) |
-| 🌐 **Web** | Frontend, backend, full-stack development | ![](https://skillicons.dev/icons?i=html,css,js,react,nodejs&perline=5) | 🔜 Opening soon |
+| 🌐 **Web** | Frontend, backend, full-stack development | ![](https://skillicons.dev/icons?i=html,css,js,react,nodejs&perline=5) | [**Open->**](https://github.com/GDG-TUM/web-development-track)|
 
 ## 🏆 Hackathons and Solutions
 
