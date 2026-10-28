@@ -1,4 +1,5 @@
-upcoming_events:
+upcoming_events: []
+past_events:
 - title: Mobile Development
   track: mobile development track
   series: Week 1
@@ -10,7 +11,6 @@ upcoming_events:
   learn: how to set up and navigate Android Studio, code using Kotlin, and build cross-platform
     apps with Flutter,
   date: '2026-10-27'
-past_events:
 - title: Web Development Essentials Make-Up Session
   track: web track
   series: Week 2
