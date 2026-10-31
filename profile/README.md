@@ -26,6 +26,38 @@
 
 ---
 
+<!-- SEASONAL:START -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=800&color=FF7518&center=true&vCenter=true&width=650&lines=The+code+is+strong+with+this+one...;No+tricks.+Just+great+projects.;Build+something+spooky+this+Halloween+%F0%9F%8E%83;Keep+learning.+Keep+building.+Keep+growing." alt="Halloween typing animation" />
+
+<br />
+
+<details>
+<summary><b>🎃 Open the GDG TUM Halloween portal 🦇</b></summary>
+
+<br />
+
+**Welcome to the spooky side of building!**
+
+🕸️ Explore our community, discover upcoming activities and build something memorable.
+
+[🎪 Community events](https://gdg.community.dev/gdg-on-campus-technical-university-of-mombasa-mombasa-kenya/)
+
+[🏆 Hackathons and buildathons](https://github.com/GDG-TUM/GDGoC-TUM-Hackathon-Structure)
+
+[💻 Explore our GitHub projects](https://github.com/orgs/GDG-TUM/repositories)
+
+[🤝 Join the community](https://www.linkedin.com/company/gdg-on-campus-tum/)
+
+*Happy Halloween from GDG on Campus TUM!*
+
+</details>
+
+</div>
+
+<!-- SEASONAL:END -->
+
 ## 👋 About us
 
 We are a **student-led developer community** at the Technical University of Mombasa. We learn by building, share what we know, and grow together through hands-on workshops, study jams, hackathons and open-source projects. Beginners are welcome, and so is everyone else.
