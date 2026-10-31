@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:4285F4,35:EA4335,70:FBBC04,100:34A853&text=GDG%20on%20Campus%20TUM&fontColor=ffffff&fontSize=44&fontAlignY=38&animation=fadeIn&desc=Technical%20University%20of%20Mombasa&descSize=18&descAlignY=60" alt="GDG on Campus TUM" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:160B24,50:5B2A86,100:FF7518&text=GDG%20TUM%20Halloween&fontColor=ffffff&fontSize=44&fontAlignY=38&animation=fadeIn&desc=Build%20something%20spooky&descSize=18&descAlignY=60" alt="GDG on Campus TUM" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&width=720&lines=Learn.+Build.+Grow.+Together.;A+student-led+developer+community;Cloud+%C2%B7+AI%2FML+%C2%B7+Mobile+%C2%B7+Security+%C2%B7+Web;Idea+%E2%86%92+Build+%E2%86%92+Pitch+%E2%86%92+Impact" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF7518&center=true&vCenter=true&width=720&lines=Learn.+Build.+Grow.+Together.;A+student-led+developer+community;Cloud+%C2%B7+AI%2FML+%C2%B7+Mobile+%C2%B7+Security+%C2%B7+Web;Happy+Halloween+from+GDG+TUM+%F0%9F%8E%83" alt="Typing animation" />
 
 <br>
 
@@ -238,6 +238,6 @@ We want everyone to feel welcome here. Please read our [Code of Conduct](https:/
 
 *We think you're going to like it here.* 💙
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:4285F4,35:EA4335,70:FBBC04,100:34A853&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:160B24,50:5B2A86,100:FF7518&section=footer" width="100%" alt="" />
 
 </div>
