@@ -42,7 +42,7 @@ DEFAULT_FOOTER = (
 HALLOWEEN_HERO = (
     "https://capsule-render.vercel.app/api?type=waving&height=220&"
     "color=0:090B1A,35:251044,70:713B8F,100:FF7518&"
-    "text=MIDNIGHT%20BUILD%20LAB&fontColor=ffffff&fontSize=42&"
+    "text=GDG On Campus%20TECHNICAL UNIVERSITY OF MOMBASA%20halloween theme&fontColor=ffffff&fontSize=42&"
     "fontAlignY=38&animation=fadeIn&"
     "desc=HALLOWEEN%20MODE%20%E2%80%A2%2031%20OCTOBER&"
     "descSize=17&descAlignY=60"
