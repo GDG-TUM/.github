@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:160B24,50:5B2A86,100:FF7518&text=GDG%20TUM%20Halloween&fontColor=ffffff&fontSize=44&fontAlignY=38&animation=fadeIn&desc=Build%20something%20spooky&descSize=18&descAlignY=60" alt="GDG on Campus TUM" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090B1A,35:251044,70:713B8F,100:FF7518&text=MIDNIGHT%20BUILD%20LAB&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=fadeIn&desc=HALLOWEEN%20MODE%20%E2%80%A2%2031%20OCTOBER&descSize=17&descAlignY=60" alt="GDG on Campus TUM" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF7518&center=true&vCenter=true&width=720&lines=Learn.+Build.+Grow.+Together.;A+student-led+developer+community;Cloud+%C2%B7+AI%2FML+%C2%B7+Mobile+%C2%B7+Security+%C2%B7+Web;Happy+Halloween+from+GDG+TUM+%F0%9F%8E%83" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=FF9B42&center=true&vCenter=true&width=720&lines=HALLOWEEN+MODE%3A+ON;Enter+the+Midnight+Build+Lab...;Pick+a+quest.+Build+something+real.;One+day.+A+little+mischief.+A+lot+of+building." alt="Typing animation" />
 
 <br>
 
@@ -29,33 +29,88 @@
 <!-- SEASONAL:START -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=800&color=FF7518&center=true&vCenter=true&width=650&lines=The+code+is+strong+with+this+one...;No+tricks.+Just+great+projects.;Build+something+spooky+this+Halloween+%F0%9F%8E%83;Keep+learning.+Keep+building.+Keep+growing." alt="Halloween typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=700&color=9BFFB5&center=true&vCenter=true&width=650&lines=%5B+HALLOWEEN+MODE%3A+ACTIVE+%5D;Your+next+build+starts+here...;Choose+your+quest+below." alt="Halloween mode animation" />
 
 <br />
 
-<details>
-<summary><b>🎃 Open the GDG TUM Halloween portal 🦇</b></summary>
-
-<br />
-
-**Welcome to the spooky side of building!**
-
-🕸️ Explore our community, discover upcoming activities and build something memorable.
-
-[🎪 Community events](https://gdg.community.dev/gdg-on-campus-technical-university-of-mombasa-mombasa-kenya/)
-
-[🏆 Hackathons and buildathons](https://github.com/GDG-TUM/GDGoC-TUM-Hackathon-Structure)
-
-[💻 Explore our GitHub projects](https://github.com/orgs/GDG-TUM/repositories)
-
-[🤝 Join the community](https://www.linkedin.com/company/gdg-on-campus-tum/)
-
-*Happy Halloween from GDG on Campus TUM!*
-
-</details>
+![Mode](https://img.shields.io/badge/MODE-HALLOWEEN-FF7518?style=for-the-badge&labelColor=160B24)
+![Date](https://img.shields.io/badge/DATE-OCTOBER%2031-9BFFB5?style=for-the-badge&labelColor=160B24)
+![Status](https://img.shields.io/badge/STATUS-ONE%20DAY%20ONLY-9B78FF?style=for-the-badge&labelColor=160B24)
 
 </div>
 
+---
+
+<div align="center">
+
+## 🕯️ THE MIDNIGHT BUILD LAB
+
+*The usual rules of learning still apply. Tonight, the interface just looks a little different.*
+
+**Choose a quest. Open a portal. Start building.**
+
+</div>
+
+<details>
+<summary><b>☁️ QUEST 01 — Enter the Cloud Realm</b></summary>
+
+Explore infrastructure, automation, containers and cloud security.
+
+[Open the Cloud Track →](https://github.com/GDG-TUM/Cloud-Track-GDG-on-Campus-TUM)
+
+</details>
+
+<details>
+<summary><b>🤖 QUEST 02 — Awaken the Machine</b></summary>
+
+Explore machine learning, AI engineering and intelligent applications.
+
+[Open the AI/ML Track →](https://github.com/GDG-TUM/AI-ML-Track-GDG-on-Campus-TUM)
+
+</details>
+
+<details>
+<summary><b>🌐 QUEST 03 — Build the Web</b></summary>
+
+Turn ideas into useful websites, APIs and full-stack applications.
+
+[Open the Web Development Track →](https://github.com/GDG-TUM/web-development-track)
+
+</details>
+
+<details>
+<summary><b>📱 QUEST 04 — Forge a Mobile App</b></summary>
+
+Build Android and cross-platform experiences.
+
+[Open the Mobile Development Track →](https://github.com/GDG-TUM/Mobile-Development-Track-GDG-on-Campus-TUM)
+
+</details>
+
+<details>
+<summary><b>🔐 QUEST 05 — Explore the Dark Side</b></summary>
+
+Learn ethical hacking, defensive security, networking and secure development.
+
+[Open the Cybersecurity Track →](https://github.com/GDG-TUM/CYBERSECURITY-TRACK-GDG-on-Campus-TUM)
+
+</details>
+
+---
+
+<div align="center">
+
+### 🎃 THE FINAL CHALLENGE
+
+**Don't just explore. Build something.**
+
+[![Explore projects](https://img.shields.io/badge/EXPLORE-PROJECTS-FF7518?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/GDG-TUM/repositories)
+[![Enter the buildathon](https://img.shields.io/badge/ENTER-BUILDATHON-9B78FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GDG-TUM/GDGoC-TUM-Hackathon-Structure)
+[![Join the community](https://img.shields.io/badge/JOIN-COMMUNITY-9BFFB5?style=for-the-badge&logo=google&logoColor=black)](https://gdg.community.dev/gdg-on-campus-technical-university-of-mombasa-mombasa-kenya/)
+
+*The Halloween theme is temporary. The building never stops.*
+
+</div>
 <!-- SEASONAL:END -->
 
 ## 👋 About us
@@ -270,6 +325,6 @@ We want everyone to feel welcome here. Please read our [Code of Conduct](https:/
 
 *We think you're going to like it here.* 💙
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:160B24,50:5B2A86,100:FF7518&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:090B1A,35:251044,70:713B8F,100:FF7518&section=footer" width="100%" alt="" />
 
 </div>
