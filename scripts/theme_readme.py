@@ -256,7 +256,7 @@ def main() -> None:
     # Update the hero banner.
     updated = replace_once(
         original,
-        r'(<img src=")https://capsule-render\.vercel\.app/api\?type=waving&height=200[^"]+(" alt="GDG on Campus TUM" width="100%" />)',
+        r'(<img src=")https://capsule-render\.vercel\.app/api\?type=waving[^"]+(" alt="GDG on Campus TUM" width="100%" />)',
         lambda match: match.group(1) + hero + match.group(2),
         "profile hero",
     )
@@ -272,7 +272,7 @@ def main() -> None:
     # Update the footer.
     updated = replace_once(
         updated,
-        r'(<img src=")https://capsule-render\.vercel\.app/api\?type=waving&height=100[^"]+(" width="100%" alt="" />)',
+        r'(<img src=")https://capsule-render\.vercel\.app/api\?type=waving[^"]+(" width="100%" alt="" />)',
         lambda match: match.group(1) + footer + match.group(2),
         "profile footer",
     )
